@@ -2,7 +2,7 @@ type: text/vnd.tiddlywiki
 title: Meals
 
 !!! Staples
-* [[Pork chops]]
+* [[Pork chops|PorkChops]]
 * Chicken breasts
 * Pasta
 * Lasagna
@@ -15,7 +15,7 @@ title: Meals
 * Pizza
 
 !!! Starches
-* [[Rice pilaf]]
+* [[Rice pilaf|RicePilaf]]
 * Bread and cheese
 * Orzo
 * Butter noodles
